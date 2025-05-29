@@ -1,7 +1,6 @@
 ---
 
 # 🚖 OLA Data Analytics Project
-
 ## 📌 Project Objective
 
 This project analyzes and optimizes ride bookings and cancellations in the OLA system using SQL, Excel, and Power BI.
